@@ -1,6 +1,6 @@
 """Módulo con las operaciones matemáticas de la calculadora."""
 
-AUTORES = "santiago.higuitau@eafit.edu.co"
+AUTORES = "Isis Amaya | Santiago Rozo | Santiago Higuita | Samuel Oviedo"
 
 
 def sumar(a, b):
